@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,800;1,400&display=swap");
+
+
+.landing_page{
+  margin-top:20px;
+  color: white;
+    /* width: 100%; */
+
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+.reactangle{
+  width: 1090px;
+  height: 402px;
+  background-image: url(../assets/Frame\ 2.svg);
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  /* border: 1px solid black; */
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+
+}
+
+.pitc{
+  position: relative;
+  left: 60px;
+  bottom: 15px ;
+}
+
+/* font */
+*{
+  font-family: "Nunito", sa ns-serif;
+}
+
+span{
+  display: block;
+}
+.text_inside{
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* border: 1px solid black; */
+  padding: 0 0 0 60px;
+}
+.landing_page span>h3{
+  font-size: 54px;
+  font-weight:900;
+}
+
+.p1{
+  font-size: 23px;
+  /* font-weight:900
+  ; */
+}
+.landing_page span p>p2{
+  /* margin-top: 20px; */
+  font-size: 17px;
+}
+.landing_page span p p2>p3{
+  font-weight: 700;
+}
+
+.textofdown p{
+  padding: 50px 0 20px 140px;
+  color:#BD0707;
+  display: block;
+  position: block;
+  left: 150px;
+  font-size: 35px;
+  font-weight: 700; 
+  /* margin-left: 150px; */
+}
+/* card */
+.landofdown{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  /* border: 1px solid black; */
+  width: 65rem;
+  height: 55rem;
+  /* border: 1px solid black; */
+  margin: 0 0 0 150px;
+}
+.imageP{
+  width: 100%;
+  border-radius: 10px 10px 0 0 ;
+}
+.card{
+  /* display: flex;
+  align-items: center;
+  justify-content: flex-start; */
+  /* margin: 0 0 40px 40px; */
+  /* width : 400px; */
+
+}
+.card1{
+  background-color: #f6dada;
+  border-radius: 20px;
+  width: 200px;
+  height: 400px;
+}
+.card2{
+  /* border: 1px solid red; */
+  padding: 0 0 0 10px;
+  
+}
+
+
+/* font */
+.text1{
+  color: #BD0707;
+  font-size: 17px;
+  font-weight: 900;
+}
+.text2{
+  color:#974A4A;
+  font-size: 15px;
+  font-weight: 100;
+}

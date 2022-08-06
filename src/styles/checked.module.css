@@ -1,0 +1,31 @@
+/* .tes{
+    border: 1px solid black;
+    display: block;
+    position: absolute;
+    margin : 0 0 120px 60px ;
+    width: 1.9em;
+    height: 1.9em;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    /* appearance: none; */
+    /* -webkit-appearance: none;
+    /* outline: none; */
+    /* cursor: pointer; */
+/* } */
+
+.con{
+    /* border: 1px solid black; */
+
+
+}
+.tes{
+    display: block;
+    position: absolute;
+    margin: 0 0 0 60px;
+    width: 1.9em;
+    height: 1.9em;
+    -webkit-appearance: none;
+    /* cursor */
+}
